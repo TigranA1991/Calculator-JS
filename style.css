@@ -67,7 +67,7 @@
   margin-left: 2px;
 }
 
-.display-field {
+.display {
   display: flex;
   align-items: last baseline;
   justify-content: flex-end;
@@ -82,7 +82,7 @@
 .controller-field {
   grid-area: 1 / 1 / 2 / 5;
 }
-.display-field {
+.display {
   grid-area: 2 / 1 / 3 / 5;
 }
 .clear {
